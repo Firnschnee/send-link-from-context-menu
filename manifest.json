@@ -23,8 +23,6 @@
   },
   "page_action": {
     "default_title": "__MSG_emailPageLinkContextMenu__",
-    "default_icon": {
-      "128": "mail-16.svg.png"
-    }
+    "default_icon": "mail-16.svg"
   }
 }
